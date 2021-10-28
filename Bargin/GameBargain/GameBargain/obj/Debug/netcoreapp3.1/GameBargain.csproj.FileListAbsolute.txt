@@ -1,0 +1,14 @@
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\obj\Debug\netcoreapp3.1\GameBargain.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\obj\Debug\netcoreapp3.1\GameBargain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\obj\Debug\netcoreapp3.1\GameBargain.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\obj\Debug\netcoreapp3.1\GameBargain.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\obj\Debug\netcoreapp3.1\GameBargain.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\bin\Debug\netcoreapp3.1\GameBargain.exe
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\bin\Debug\netcoreapp3.1\GameBargain.deps.json
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\bin\Debug\netcoreapp3.1\GameBargain.runtimeconfig.json
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\bin\Debug\netcoreapp3.1\GameBargain.runtimeconfig.dev.json
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\bin\Debug\netcoreapp3.1\GameBargain.dll
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\bin\Debug\netcoreapp3.1\GameBargain.pdb
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\obj\Debug\netcoreapp3.1\GameBargain.dll
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\obj\Debug\netcoreapp3.1\GameBargain.pdb
+C:\Users\Windows\OneDrive\Documents\Bargin\GameBargain\GameBargain\obj\Debug\netcoreapp3.1\GameBargain.genruntimeconfig.cache
